@@ -37,12 +37,12 @@ python main_frontend.py
 
 ### Welcome Screen
 
-![Welcome Screen](screenshots/Welcome.png)
+![Welcome Screen](Welcome.png)
 
 ### Image Detection
 
-![Image Detection](screenshots/image_detection.png)
+![Image Detection](image_detection.png)
 
 ### Video Detection
 
-![Video Detection](screenshots/video_detection.png)
+![Video Detection](video_detection.png)
